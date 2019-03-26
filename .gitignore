@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.log
+.idea/
+.vscode/
+*.orig
+.env
+loadHikingProjectData.js
+response.json
+test*
