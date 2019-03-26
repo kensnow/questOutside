@@ -22,6 +22,10 @@ QuestOutside is a full-stack web application featuring the MERN Stack.  A full l
 + Express-JWT
 + JSON web token
 
+The project features unique users, Token Based Authentication, and encrypted password storage.  For a backend built on NodeJS, 3 seperate Schemas built with Mongoose, and used Express to run the server.  
+
+The front end was build using React, async API calls with Axios.  The App uses Context for passing props and handler functions, and is a Single Page Application using React Router.
+
 ## Learning Project
 QuestOutside is a learning  project to get a handle of developing a full-stack CRUD Web Application. 
 
