@@ -28,3 +28,7 @@ QuestOutside is a learning  project to get a handle of developing a full-stack C
 I like the concept of both gamification and augmented-reality, and felt an app to integrate a reward scheme would be exciting to work on.
 
 The project is still being worked on, and is currently being refactored.  You can follow its progress here: https://github.com/kensnow/quest-outside
+
+## Author
+This project was created by:
+[Ken Snow](http://www.ken-snow.com)
